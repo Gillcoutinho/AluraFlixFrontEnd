@@ -1,0 +1,116 @@
+
+.novo-video {
+  width: auto;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.novo-video h1 {
+  font-size: 60px;
+  margin: 0;
+}
+
+.novo-video p {
+  font-size: 20px;
+}
+
+form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+.titulo {
+  font-size: 40px;
+  position: relative;
+}
+
+.titulo::before,
+.titulo::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: white;
+}
+
+.titulo::before {
+  top: -2px; /* Posiciona a linha acima do texto */
+}
+
+.titulo::after {
+  bottom: -2px; /* Posiciona a linha abaixo do texto */
+}
+
+.formcard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+label {
+  font-size: 16px;
+}
+
+input, select, textarea {
+  width: 573px;
+  height: 20px;
+  padding: 10px;
+  border: 2px solid #6BD1FF;
+  color: rgb(12, 12, 12);
+  font-size: 12px;
+
+}
+
+select {
+  width: 573px;
+}
+
+
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  width: 573px;
+  margin-top: 20px;
+}
+
+button {
+  width: 573px;
+  height: 54px;
+  border-radius: 8px;
+  border: 5px solid #6BD1FF;
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 0 10px;
+  transition: background-color 0.3s;
+}
+
+button[type="submit"] {
+  margin-right: 5px;
+}
+
+button[type="reset"] {
+  margin-left: 5px;
+}
+
+button:hover {
+  background-color: #6BD1FF;
+}

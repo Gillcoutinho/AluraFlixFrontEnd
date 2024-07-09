@@ -1,0 +1,80 @@
+body {
+  font-family: sans-serif;
+}
+
+img {
+  width: 432px;
+  height: 260.85px;
+  border-radius: 4px;
+  border: 4px;
+}
+
+.home {
+  padding: 20px;
+}
+
+.cards {
+  margin-top: 20px;
+}
+
+.card-group {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.titulo-categoria {
+  width: 296.82px;
+  height: 92px;
+  top: 366px;
+  left: 40.11px;
+  border-radius: 15px;
+  background: #6bd1ff;
+  text-align: center;
+  color: aliceblue;
+}
+
+.titulo {
+  color: aliceblue;
+}
+
+.texto {
+  color: aliceblue;
+}
+
+.front {
+  width: 432px;
+  height: 70px;
+  border-radius: 15px;
+  background: #6bd1ff;
+  color: aliceblue;
+  text-align: center;
+  font-size: 32px;
+  align-items: center; /* Centraliza verticalmente */
+  justify-content: center; /* Centraliza horizontalmente */
+}
+
+.back {
+  width: 432px;
+  height: 70px;
+  border-radius: 15px;
+  background: #00c86f;
+  color: aliceblue;
+  text-align: center;
+  font-size: 32px;
+  align-items: center; /* Centraliza verticalmente */
+  justify-content: center; /* Centraliza horizontalmente */
+}
+
+.mobi {
+  width: 432px;
+  height: 70px;
+  border-radius: 15px;
+  background: #ffba05;
+  color: aliceblue;
+  text-align: center;
+  font-size: 32px;
+  align-items: center; /* Centraliza verticalmente */
+  justify-content: center; /* Centraliza horizontalmente */
+}

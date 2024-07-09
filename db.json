@@ -1,0 +1,86 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "titulo": "Front End",
+      "image": "./assets/front1.png",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Front End",
+      "image": "./assets/front2.png",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Front End",
+      "image": "./assets/front3.png",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+
+    {
+      "id": 4,
+      "titulo": "BackEnd",
+      "image": "./assets/back1.png",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "BackEnd",
+      "image": "./assets/back2.png",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "BackEnd",
+      "image": "./assets/back3.png",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/cursos-online-mobile"
+      }
+    },
+    {
+      "id": 7,
+      "titulo": "Mobile",
+      "image": "./assets/mobile1.png",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/cursos-online-mobile"
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "Mobile",
+      "image": "./assets/mobile2.png",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/cursos-online-mobile"
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "Mobile",
+      "image": "./assets/modile3.png",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    }
+  ]
+}
